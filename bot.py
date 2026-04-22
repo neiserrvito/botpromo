@@ -21,7 +21,7 @@ async def start(client, message):
 
     await client.send_video(
     user_id,
-    video="https://res.cloudinary.com/dbppv000g/video/upload/v1776889834/SLOT138_ovtiud.mp4",
+    video="https://t.me/bringas22/3",
     caption="🔥 Gameplay gacor hari ini!"
 )
 
